@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/res-8-010-su18-th.jpg
+file_size: 25255
 file_type: image/jpeg
 image_metadata:
   caption: ''
