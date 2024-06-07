@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/mitres_8_010su18_pset4.pdf
+file_size: 290422
 file_type: application/pdf
 image_metadata:
   caption: ''
