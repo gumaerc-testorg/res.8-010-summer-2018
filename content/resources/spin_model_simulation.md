@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/spin_model_simulation.nb
+file: /ol-ocw-studio-app/courses/res-8-010-introduction-to-statistical-physics-summer-2018/spin_model_simulation.nb
 file_size: 15345
 file_type: application/mathematica
 image_metadata:

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/mitres_8_010su17_lec9.pdf
+file: /ol-ocw-studio-app/courses/res-8-010-introduction-to-statistical-physics-summer-2018/mitres_8_010su17_lec9.pdf
 file_size: 375737
 file_type: application/pdf
 image_metadata:
