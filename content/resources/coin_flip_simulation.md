@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-8-010-introduction-to-statistical-physics-summer-2018/coin_flip_simulation.nb
+file: courses/introduction-to-statistical-physics/coin_flip_simulation.nb
 file_size: 20694
 file_type: application/mathematica
 image_metadata:
