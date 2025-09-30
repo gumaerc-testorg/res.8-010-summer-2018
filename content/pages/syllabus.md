@@ -16,9 +16,9 @@ Recitations: 1 session / week, 1 hour / session. Attending recitation is mandato
 
 ### About This Course
 
-This course was offered as part of [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/), a six-week, residential STEM experience for rising high school seniors. [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/) provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
+This course was offered as part of {{% resource_link "f32142f9-d2d8-4b17-bbc9-2977916a0231" "MITES Summer" %}}, a six-week, residential STEM experience for rising high school seniors. {{% resource_link "1311d362-a347-4203-a316-dc59bc9223db" "MIT Introduction to Technology, Engineering, and Science (MITES)" %}} provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
 
-Users can learn about Dr. Mobolaji's experiences teaching both *Introduction to Statistical Physics* and another MITES course, *Introduction to Oscillations and Waves,* at the [Instructor Insights page](https://ocw.mit.edu/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/pages/instructor-insights/) for that course.
+Users can learn about Dr. Mobolaji's experiences teaching both *Introduction to Statistical Physics* and another MITES course, *Introduction to Oscillations and Waves,* at the {{% resource_link "4ae26b05-aec6-4cd0-a2c4-d0ad783acccb" "Instructor Insights page" %}} for that course.
 
 ### Prerequisites
 
@@ -45,9 +45,9 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 There are {{% resource_link "0d275120-aed7-40c6-b602-ae04f6b10595" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
-- [MIT 8.044 OCW Course site](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/): OpenCourseWare collection of materials for MIT’s 8.044, the first statistical physics course in the undergraduate physics sequence.
-- [Stanford Statistical Physics by Susskind](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0): A series of seven lectures on statistical physics. This is a more advanced course which concludes by discussing quantum systems.
-- [Entropy, Order Parameters, and Complexity by Sethna](https://sethna.lassp.cornell.edu/StatMech/EntropyOrderParametersComplexity20.pdf): Online version of a modern textbook on statistical physics. Covers many unique applications of statistical physics in the problems. This course overlaps with chapters 1, 3, 5, and 6.
+- {{% resource_link "ff4061ac-d23e-4619-a19b-dd5ab692ef97" "MIT 8.044 OCW Course site" %}}: OpenCourseWare collection of materials for MIT’s 8.044, the first statistical physics course in the undergraduate physics sequence.
+- {{% resource_link "f92d39fd-2436-40f1-bd58-fe1ef5470cac" "Stanford Statistical Physics by Susskind" %}}: A series of seven lectures on statistical physics. This is a more advanced course which concludes by discussing quantum systems.
+- {{% resource_link "d29e81cd-5192-4728-a463-a31a8feb64b8" "Entropy, Order Parameters, and Complexity by Sethna" %}}: Online version of a modern textbook on statistical physics. Covers many unique applications of statistical physics in the problems. This course overlaps with chapters 1, 3, 5, and 6.
 
 ### Assignments
 
@@ -69,4 +69,4 @@ There will be a final exam.
 
 ### Evaluation
 
-There are no formal grades in [MITES](https://oeop.mit.edu/programs/mites/program-details), but you will receive numerical grades on your assignments and exams so that you (and I) can track your progress. Overall don’t stress too much about the absolute value of these grades over the course of the program. What is more important is consistently showing up in class, recitation, and office hours, and working to complete all assignments.
+There are no formal grades in {{% resource_link "65b7fee6-4905-42bc-b5bf-361bada2ded7" "MITES" %}}, but you will receive numerical grades on your assignments and exams so that you (and I) can track your progress. Overall don’t stress too much about the absolute value of these grades over the course of the program. What is more important is consistently showing up in class, recitation, and office hours, and working to complete all assignments.
